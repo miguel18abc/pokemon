@@ -1,4 +1,6 @@
-[
+
+{
+  "pokemons": [
   {
     "id": 1,
     "name": "Bulbasaur",
@@ -41,3 +43,4 @@
     "img": "016.png"
   }
   ]
+}
